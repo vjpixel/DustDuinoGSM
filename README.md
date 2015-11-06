@@ -8,7 +8,7 @@ Read more about DustDuino: http://publiclab.org/wiki/dustduino
 
 You can find code for other versions of DustDuino on http://dustduino.org/
 
-This is the Arduino code for sending SMS with the readings of the equipment.
+This is the Arduino code for sending the readings of the equipment thru SMS and internet.
 
 IMPORTANT: This code don't run in Arduino IDE 1.0.5. It was compiled using IDE 1.6.5.
 
